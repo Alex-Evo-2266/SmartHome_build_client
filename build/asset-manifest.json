@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.825f7a20.chunk.css",
+    "main.js": "/static/js/main.6e4a26b2.chunk.js",
+    "main.js.map": "/static/js/main.6e4a26b2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d074e485.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d074e485.js.map",
+    "static/js/2.d64ccc54.chunk.js": "/static/js/2.d64ccc54.chunk.js",
+    "static/js/2.d64ccc54.chunk.js.map": "/static/js/2.d64ccc54.chunk.js.map",
+    "static/js/3.9aad9b5b.chunk.js": "/static/js/3.9aad9b5b.chunk.js",
+    "static/js/3.9aad9b5b.chunk.js.map": "/static/js/3.9aad9b5b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.825f7a20.chunk.css.map": "/static/css/main.825f7a20.chunk.css.map",
+    "static/js/2.d64ccc54.chunk.js.LICENSE.txt": "/static/js/2.d64ccc54.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/fon-base.e46203d1.jpg": "/static/media/fon-base.e46203d1.jpg",
+    "static/media/lamp.0636a2da.png": "/static/media/lamp.0636a2da.png",
+    "static/media/style-auth.css": "/static/media/logo.31e62429.jpg",
+    "static/media/relay.80691df2.jpg": "/static/media/relay.80691df2.jpg",
+    "static/media/sensor.937a0c45.png": "/static/media/sensor.937a0c45.png",
+    "static/media/socket.159fbd8e.png": "/static/media/socket.159fbd8e.png",
+    "static/media/switch.65d758d2.png": "/static/media/switch.65d758d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d074e485.js",
+    "static/js/2.d64ccc54.chunk.js",
+    "static/css/main.825f7a20.chunk.css",
+    "static/js/main.6e4a26b2.chunk.js"
+  ]
+}
