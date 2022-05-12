@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.825f7a20.chunk.css",
-    "main.js": "/static/js/main.804dd253.chunk.js",
-    "main.js.map": "/static/js/main.804dd253.chunk.js.map",
+    "main.css": "/static/css/main.5693933c.chunk.css",
+    "main.js": "/static/js/main.84221ac9.chunk.js",
+    "main.js.map": "/static/js/main.84221ac9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d074e485.js",
     "runtime-main.js.map": "/static/js/runtime-main.d074e485.js.map",
     "static/js/2.d64ccc54.chunk.js": "/static/js/2.d64ccc54.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9aad9b5b.chunk.js": "/static/js/3.9aad9b5b.chunk.js",
     "static/js/3.9aad9b5b.chunk.js.map": "/static/js/3.9aad9b5b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.825f7a20.chunk.css.map": "/static/css/main.825f7a20.chunk.css.map",
+    "static/css/main.5693933c.chunk.css.map": "/static/css/main.5693933c.chunk.css.map",
     "static/js/2.d64ccc54.chunk.js.LICENSE.txt": "/static/js/2.d64ccc54.chunk.js.LICENSE.txt",
     "static/media/all.css": "/static/media/fa-solid-900.eeccf4f6.woff",
     "static/media/fon-base.e46203d1.jpg": "/static/media/fon-base.e46203d1.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.d074e485.js",
     "static/js/2.d64ccc54.chunk.js",
-    "static/css/main.825f7a20.chunk.css",
-    "static/js/main.804dd253.chunk.js"
+    "static/css/main.5693933c.chunk.css",
+    "static/js/main.84221ac9.chunk.js"
   ]
 }
